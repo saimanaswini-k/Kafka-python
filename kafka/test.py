@@ -53,5 +53,5 @@ def main(file_path):
         print("No valid JSON data.")
 
 if __name__ == "__main__":
-    file_path = '/home/sanketika07/Desktop/kafka/Kafka-python/kafka/data.json'  
+    file_path = 'data.json'  
     main(file_path)
